@@ -1,4 +1,4 @@
-HI there ✋🏻
+Hi there✋🏻
 
 
 MY NAME IS SALOUA EL ISSATI 
@@ -7,13 +7,14 @@ MY NAME IS SALOUA EL ISSATI
 
 -🔭 I´m currently working with Javascript, Angular, Laravel ,Bootstrap ,php ,CSS,
 
+
+ 🌱 I’m currently learning Cloud computing and IOT
+ 
+
 -How to reach me :
 
 
 saloua.elissati@etu.uae.ac.ma
-
-
- 🌱 I’m currently learning Cloud computing and IOT
  
  
  Connect with me:
